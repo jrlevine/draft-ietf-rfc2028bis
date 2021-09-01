@@ -64,7 +64,7 @@ Table of Contents
 
    1.  The IETF Standards Process
    2.  Key individuals in the Process
-     2.1.  The Document Editor) or Authors)
+     2.1.  The Document Editor or Authors
      2.2.  The Working Group Chair
      2.3.  The Area Director
      2.4.  The Request for Comments Editor
@@ -101,7 +101,7 @@ Table of Contents
    Roles are listed as singular, but more than one individual can be
    involved.
 
-2.1.  The Document Editor) or Authors)
+2.1.  The Document Editor or Authors
 
    Most IETF Working Groups focus their efforts on a document, or set of
    documents, that capture the results of the group's work.  A Working
@@ -299,7 +299,7 @@ Table of Contents
    considered for Internet standardization, the specification is
    processed through the IETF using the rules in this document.
 
-   The IRTF is composed of individual Working Groups, but its structure
+   The IRTF is composed of individual Research Groups, but its structure
    and mode of operation is much less formal than that of the IETF, due
    in part to the fact that it does not participate directly in the
    Internet standards process.  The organization and program of work of
@@ -307,6 +307,9 @@ Table of Contents
    which consists of the chairs of the IRTF Working Groups.  Details of
    the organization and operation of the IRTF and its Working Groups may
    be found in [IRTF].
+
+   An IETF working group may ask an IRTF research group for advice or
+   other input.
 
 4.  Security Considerations
 
@@ -322,8 +325,6 @@ Table of Contents
    participants at the time [RFC2028] was written; in particular, those
    involved with what was called the POISED effort and the authors of
    that document, Richard Hovey and Scott Bradner.
-
-   some folks.
 
 7.  Normative References
 
