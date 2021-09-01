@@ -56,31 +56,14 @@ rights and copyright issues associated with the standards process.
 
 # Key individuals in the Process
 
-## The Request for Comments Editor
+This section describes the individual roles involved in the process.
+It attempts to list the roles in the order in which they are involved
+in the process, but no meaning is otherwise attached.
 
-The RFC publication series {{IETFPROCS}} is managed by an Editor (which may in
-practice be one or more individuals) responsible both for the
-mechanics of RFC publication and for upholding the traditionally high
-technical and editorial standards of the RFC series.
+Roles are listed as singular, but more than one individual can be
+involved.
 
-The functions of the RFC Editor are performed by one or more
-individuals or organizations selected in accordance with the
-procedures defined by the RFC Editor charter, TBD.
-
-## The Working Group Chair(s)
-
-Each IETF Working Group is headed by a chair (or by co-chairs) with
-the responsibility for directing the group's activities, presiding
-over the group's meetings, and ensuring that the commitments of the
-group with respect to its role in the Internet standards process are
-met. In particular, the WG chair is the formal point of contact
-between the WG and the IESG, via the Area Director of the area to
-which the WG is assigned.
-
-The details on the selection and responsibilites of an IETF Working
-Group chair can be found in {{WGPROCS}}.
-
-##  The Document Editor(s) or Authors(s)
+##  The Document Editor or Authors
 
 Most IETF Working Groups focus their efforts on a document, or set of
 documents, that capture the results of the group's work.  A Working
@@ -93,6 +76,37 @@ As a general practice, the Working Group Chair and Document Editor
 positions are filled by different individuals to help ensure that the
 resulting documents accurately reflect the consensus of the Working
 Group and that all processes are followed.
+
+## The Working Group Chair
+
+Each IETF Working Group is headed by a chair (or by co-chairs) with
+the responsibility for directing the group's activities, presiding
+over the group's meetings, and ensuring that the commitments of the
+group with respect to its role in the Internet standards process are
+met. In particular, the WG chair is the formal point of contact
+between the WG and the IESG, via the Area Director of the area to
+which the WG is assigned.
+
+The details on the selection and responsibilites of an IETF Working
+Group chair can be found in {{WGPROCS}}.
+
+## The Area Director
+
+The Area Director assigned as the "Reponsible Area Director" for the
+working will review the document after the working has approved its
+last call, and when satisfied will request it to be put on the IESG
+agenda.
+
+## The Request for Comments Editor
+
+The RFC publication series {{IETFPROCS}} is managed by an Editor (which may in
+practice be one or more individuals) responsible both for the
+mechanics of RFC publication and for upholding the traditionally high
+technical and editorial standards of the RFC series.
+
+The functions of the RFC Editor are performed by one or more
+individuals or organizations selected in accordance with the
+procedures defined by the RFC Editor charter, TBD.
 
 # Key organizations in the Process
 
@@ -246,7 +260,7 @@ generates a specification that is sufficiently stable to be
 considered for Internet standardization, the specification is
 processed through the IETF using the rules in this document.
 
-The IRTF is composed of individual Working Groups, but its structure
+The IRTF is composed of individual Research Groups, but its structure
 and mode of operation is much less formal than that of the IETF, due
 in part to the fact that it does not participate directly in the
 Internet standards process.  The organization and program of work of
@@ -254,6 +268,9 @@ the IRTF is overseen by the Internet Research Steering Group (IRSG),
 which consists of the chairs of the IRTF Working Groups.  Details of
 the organization and operation of the IRTF and its Working Groups may
 be found in {{IRTF}}.
+
+An IETF working group may ask an IRTF research group for advice or
+other input.
 
 # Security Considerations
 
@@ -269,5 +286,3 @@ The authors of this document would like to thank the IETF participants at the ti
 {{RFC2028}} was written; in particular, those involved with what was called the
 POISED effort and the authors of that document, Richard Hovey
 and Scott Bradner.
-
-some folks.
