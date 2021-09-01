@@ -63,7 +63,7 @@ in the process, but no meaning is otherwise attached.
 Roles are listed as singular, but more than one individual can be
 involved.
 
-##  The Document Editor or Authors
+##  The Document Editor or Author
 
 Most IETF Working Groups focus their efforts on a document, or set of
 documents, that capture the results of the group's work.  A Working
@@ -72,10 +72,15 @@ for a particular document.  The Document Editor is responsible for
 ensuring that the contents of the document accurately reflect the
 decisions that have been made by the working group.
 
-As a general practice, the Working Group Chair and Document Editor
-positions are filled by different individuals to help ensure that the
-resulting documents accurately reflect the consensus of the Working
-Group and that all processes are followed.
+When a document is composed and edited mainly by one or more individuals
+they may be referred to as the document authors. The distinction is
+not significant.
+
+When a Document Editor/Author is a Chair of the same working group, a
+co-chair should manage the process around the document. If a co-chair is not
+available, the process must be monitored carefully to ensure ensure that the
+resulting documents accurately reflect the consensus of the Working Group and
+that all processes are followed.
 
 ## The Working Group Chair
 
