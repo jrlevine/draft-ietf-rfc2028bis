@@ -1,7 +1,7 @@
 ---
 docname: draft-rsalz-2028bis-latest
 updates: 2028, 3668, 3979, 8717
-title: The Entitites Involved in the IETF Standards Process
+title: The Entitities Involved in the IETF Standards Process
 category: bcp
 workgroup: ntp
 ipr: trust200902
@@ -22,12 +22,13 @@ author:
     org: Akamai Technologies
     email: rsalz@akamai.com
 normative:
-  WGPROCS: RFC2418
-  IETFPROCS: RFC2026
   IAB: RFC2850
-  IRTF: RFC2014
   IESG: RFC3710
+  IETFPROCS: RFC2026
+  IRTF: RFC2014
   NOMCOM: RFC8713
+  RFC2028: RFC2028
+  WGPROCS: RFC2418
   IANA:
     target: https://www.ietf.org/standards/iana
     title: IANA
